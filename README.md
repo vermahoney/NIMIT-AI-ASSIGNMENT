@@ -1,8 +1,4 @@
 # NimitAI Sales Signal Analyzer
-## Preview
-
-![NimitAI Dashboard](public/preview1.png)
-# NimitAI Sales Signal Analyzer
 
 An AI-powered sales conversation analyzer that identifies buying intent, objections, and confusion signals from meeting transcripts and generates actionable coaching recommendations using Gemini 2.5 Flash.
 
@@ -12,11 +8,11 @@ An AI-powered sales conversation analyzer that identifies buying intent, objecti
 
 ## Live Demo
 
-🔗 Add your Vercel deployment link here
+🔗 nimit-ai-assignment-kk3o-cxegsv2vz-himanshus-projects-0725c532.vercel.app
 
 ## GitHub Repository
 
-🔗 Add your GitHub repository link here
+🔗 https://github.com/vermahoney/NIMIT-AI-ASSIGNMENT
 
 ---
 
