@@ -1,4 +1,7 @@
 # NimitAI Sales Signal Analyzer
+## Preview
+
+![NimitAI Dashboard](public/preview1.png)
 
 A modern AI-powered sales call analyzer built with Next.js 15, TypeScript, Tailwind CSS, Framer Motion, and Gemini API.
 
