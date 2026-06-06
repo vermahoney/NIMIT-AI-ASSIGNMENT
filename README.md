@@ -8,7 +8,7 @@ An AI-powered sales conversation analyzer that identifies buying intent, objecti
 
 ## Live Demo
 
-🔗 nimit-ai-assignment-kk3o-cxegsv2vz-himanshus-projects-0725c532.vercel.app
+[View Live Demo](https://nimit-ai-assignment-kk3o-cxegsv2vz-himanshus-projects-0725c532.vercel.app)
 
 ## GitHub Repository
 
